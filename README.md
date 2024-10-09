@@ -1,6 +1,6 @@
 # modul2mobile
 
-A new Flutter project.
+Codelab Modul 2 Mobile
 
 ## Getting Started
 
